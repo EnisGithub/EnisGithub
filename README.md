@@ -36,6 +36,5 @@
 
 ###
 
-<p align="left">Contact: 6ynth@proton.me</p>
 
 ###
