@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Enis and I'm a malware & webdeveloper from Germany!</h2>
+<h2 align="left">Hi 👋! </h2>
 
 ###
 
