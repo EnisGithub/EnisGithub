@@ -1,6 +1,6 @@
 # 💫 About Me:
-Literally me<br><div class="tenor-gif-embed" data-postid="3657171054169349186" data-share-method="host" data-aspect-ratio="0.702811" data-width="100%"><a href="https://tenor.com/view/terry-davis-gif-3657171054169349186">Terry Davis GIF</a>from <a href="https://tenor.com/search/terry+davis-gifs">Terry Davis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+Literally me 
+https://tenor.com/view/terry-davis-gif-3657171054169349186
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enis.cmn) 
