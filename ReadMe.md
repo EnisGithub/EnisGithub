@@ -1,7 +1,5 @@
-# 💫 About Me:
-Literally me ![image](https://github.com/user-attachments/assets/a65d6aef-0906-46b4-818d-f247085344a6)
-
-
+# Literally me
+![image](https://github.com/user-attachments/assets/a65d6aef-0906-46b4-818d-f247085344a6)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enis.cmn) 
